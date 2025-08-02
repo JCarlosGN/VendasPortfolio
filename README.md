@@ -51,7 +51,7 @@ Resumo do Projeto: Projeto criado para uma empresa do setor automotivo, especial
 Ele apresenta:
 - Composição das Vendas: O percentual de faturamento de aditivos versus óleos.<br>
 - Análise Geográfica: O desempenho de vendas por região e a presença da empresa no território nacional, visualizada em um mapa.<br>
-- Análise Temporal: A evolução mensal detalhada das vendas, com segmentação por planta.
+- Análise Temporal: A evolução mensal detalhada das vendas, com segmentação por planta.<br>
 <br><br>
 
 <a href="https://app.powerbi.com/view?r=eyJrIjoiNjg2NGY2ZjYtMzBhZi00MzZhLTgyZTYtOGNkZmYwNTMwMjAwIiwidCI6IjU1NjA1YTYzLTAyNDQtNDlmMy05NTZlLWQ3NDIwODcyMzg5NiJ9">Clique aqui</a> e acesse o a solução desenvolvida para o cliente.
