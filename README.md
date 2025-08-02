@@ -22,7 +22,7 @@ Métricas financeiras e operacionais essenciais, que são calculadas a partir de
 
 ##
 # Medidas Criadas
-<img align="left" width="200"  src="https://github.com/JCarlosGN/VendasPortfolio/blob/main/Medidas.JPG?raw=true"><br>
+<img align="left" width="200"  src="https://github.com/JCarlosGN/VendasPortfolio/blob/main/Medidas.JPG?raw=true">
 
   - Custo: Calcula o custo total dos produtos vendidos.<br>
   - Custo %: Calcula o percentual do custo em relação à receita total de vendas. Mostra quanto da receita total é consumido pelos custos dos produtos vendidos.<br>
@@ -34,7 +34,7 @@ Métricas financeiras e operacionais essenciais, que são calculadas a partir de
 
 ##
 # Detalhes de Vendas
-<img align="Right" width="500"  src="https://github.com/JCarlosGN/VendasPortfolio/blob/main/Detalhes%20Vendas.JPG?raw=true"><br>
+<img align="Right" width="500"  src="https://github.com/JCarlosGN/VendasPortfolio/blob/main/Detalhes%20Vendas.JPG?raw=true">
 
 - Análise Granular: Ver cada venda individualmente, em vez de apenas totais.<br>
 - Tomada de Decisão: Entender o desempenho por região, produto e cliente.<br>
@@ -46,7 +46,8 @@ Em resumo, o propósito dessa segmentação e visualização tabular é transfor
 ##
 
 # Painel do Power BI
-<img align="Left" width="500"  src="https://github.com/JCarlosGN/VendasPortfolio/blob/main/Vis%C3%A3o%20Geral%20Vendas.JPG?raw=true"><br>
+<img align="Left" width="500"  src="https://github.com/JCarlosGN/VendasPortfolio/blob/main/Vis%C3%A3o%20Geral%20Vendas.JPG?raw=true">
+
 Resumo do Projeto: Projeto criado para uma empresa do setor automotivo, especializada em óleos e aditivos, oferece uma visão estratégica do negócio. 
 Ele apresenta:
 - Composição das Vendas: O percentual de faturamento de aditivos versus óleos.<br>
